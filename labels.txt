@@ -1,2 +1,2 @@
-0 claw_clip
-1 hand_cream_tube
+0 claw clip
+1 hand cream tube
